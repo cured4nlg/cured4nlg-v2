@@ -1,0 +1,9 @@
+## Mac OS
+.DS_Store/
+
+## Python
+.ipynb_checkpoints/
+
+## Sublime Text
+*.sublime-project
+*.sublime-workspace
