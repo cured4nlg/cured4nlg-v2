@@ -1,0 +1,4 @@
+marker-pdf
+psutil
+streamlit
+streamlit-ace
